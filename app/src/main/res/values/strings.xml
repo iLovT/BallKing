@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BallKing</string>
+    <string name="begain_game">开始游戏</string>
+    <string name="some_error">出错啦，请稍后重试!</string>
+</resources>
